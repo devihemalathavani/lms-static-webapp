@@ -1,0 +1,27 @@
+{
+  "name": "lms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd webapp && npm run test && cd ../api && npm run test && cd ..",
+    "lint": "cd webapp && npx eslint src/**/*.{ts,tsx} && cd ../api && npx eslint src/**/*.{ts,tsx};",
+    "precommit": "npm run lint && npm run test",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@ssh.dev.azure.com:v3/Kona-MarS-LMS/LMS/LMS"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "lint-staged": {
+    "**/*": "prettier --write --ignore-unknown"
+  },
+  "devDependencies": {
+    "husky": "^8.0.2",
+    "lint-staged": "^13.0.4",
+    "prettier": "2.8.0"
+  }
+}

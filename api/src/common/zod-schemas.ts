@@ -1,0 +1,18 @@
+import { z } from "zod";
+
+export const IdSchema = z.preprocess(
+  (value) => parseInt(value as string),
+  z.number().min(1)
+);
+
+export const EmailSchema = z
+  .string()
+  .email()
+  .trim()
+  .transform((v) => v.toLowerCase());
+
+export const BooleanQueryParamSchema = z.object({
+  archived: z
+    .union([z.literal("true"), z.literal("false")])
+    .transform((v) => v === "true"),
+});

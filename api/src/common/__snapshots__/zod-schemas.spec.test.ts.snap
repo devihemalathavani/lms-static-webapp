@@ -1,0 +1,206 @@
+// Vitest Snapshot v1
+
+exports[`Common zod schemas > 0 ZodEffects {
+  spa: [Function: bound safeParseAsync] AsyncFunction,
+  superRefine: [Function: bound _refinement],
+  _def: [Object],
+  parse: [Function: bound parse],
+  safeParse: [Function: bound safeParse],
+  parseAsync: [Function: bound parseAsync] AsyncFunction,
+  safeParseAsync: [Function: bound safeParseAsync] AsyncFunction,
+  refine: [Function: bound refine],
+  refinement: [Function: bound refinement],
+  optional: [Function: bound optional],
+  nullable: [Function: bound nullable],
+  nullish: [Function: bound nullish],
+  array: [Function: bound array],
+  promise: [Function: bound promise],
+  or: [Function: bound or],
+  and: [Function: bound and],
+  transform: [Function: bound transform],
+  default: [Function: bound default],
+  describe: [Function: bound describe],
+  isNullable: [Function: bound isNullable],
+  isOptional: [Function: bound isOptional]
+} 1`] = `
+"[
+  {
+    \\"code\\": \\"invalid_type\\",
+    \\"expected\\": \\"number\\",
+    \\"received\\": \\"nan\\",
+    \\"path\\": [],
+    \\"message\\": \\"Expected number, received nan\\"
+  }
+]"
+`;
+
+exports[`Common zod schemas > 1 ZodEffects {
+  spa: [Function: bound safeParseAsync] AsyncFunction,
+  superRefine: [Function: bound _refinement],
+  _def: [Object],
+  parse: [Function: bound parse],
+  safeParse: [Function: bound safeParse],
+  parseAsync: [Function: bound parseAsync] AsyncFunction,
+  safeParseAsync: [Function: bound safeParseAsync] AsyncFunction,
+  refine: [Function: bound refine],
+  refinement: [Function: bound refinement],
+  optional: [Function: bound optional],
+  nullable: [Function: bound nullable],
+  nullish: [Function: bound nullish],
+  array: [Function: bound array],
+  promise: [Function: bound promise],
+  or: [Function: bound or],
+  and: [Function: bound and],
+  transform: [Function: bound transform],
+  default: [Function: bound default],
+  describe: [Function: bound describe],
+  isNullable: [Function: bound isNullable],
+  isOptional: [Function: bound isOptional]
+} 1`] = `
+"[
+  {
+    \\"code\\": \\"invalid_type\\",
+    \\"expected\\": \\"number\\",
+    \\"received\\": \\"nan\\",
+    \\"path\\": [],
+    \\"message\\": \\"Expected number, received nan\\"
+  }
+]"
+`;
+
+exports[`Common zod schemas > 2 ZodEffects {
+  spa: [Function: bound safeParseAsync] AsyncFunction,
+  superRefine: [Function: bound _refinement],
+  _def: [Object],
+  parse: [Function: bound parse],
+  safeParse: [Function: bound safeParse],
+  parseAsync: [Function: bound parseAsync] AsyncFunction,
+  safeParseAsync: [Function: bound safeParseAsync] AsyncFunction,
+  refine: [Function: bound refine],
+  refinement: [Function: bound refinement],
+  optional: [Function: bound optional],
+  nullable: [Function: bound nullable],
+  nullish: [Function: bound nullish],
+  array: [Function: bound array],
+  promise: [Function: bound promise],
+  or: [Function: bound or],
+  and: [Function: bound and],
+  transform: [Function: bound transform],
+  default: [Function: bound default],
+  describe: [Function: bound describe],
+  isNullable: [Function: bound isNullable],
+  isOptional: [Function: bound isOptional]
+} 1`] = `
+"[
+  {
+    \\"code\\": \\"invalid_type\\",
+    \\"expected\\": \\"number\\",
+    \\"received\\": \\"nan\\",
+    \\"path\\": [],
+    \\"message\\": \\"Expected number, received nan\\"
+  }
+]"
+`;
+
+exports[`Common zod schemas > 3 ZodEffects {
+  spa: [Function: bound safeParseAsync] AsyncFunction,
+  superRefine: [Function: bound _refinement],
+  _def: [Object],
+  parse: [Function: bound parse],
+  safeParse: [Function: bound safeParse],
+  parseAsync: [Function: bound parseAsync] AsyncFunction,
+  safeParseAsync: [Function: bound safeParseAsync] AsyncFunction,
+  refine: [Function: bound refine],
+  refinement: [Function: bound refinement],
+  optional: [Function: bound optional],
+  nullable: [Function: bound nullable],
+  nullish: [Function: bound nullish],
+  array: [Function: bound array],
+  promise: [Function: bound promise],
+  or: [Function: bound or],
+  and: [Function: bound and],
+  transform: [Function: bound transform],
+  default: [Function: bound default],
+  describe: [Function: bound describe],
+  isNullable: [Function: bound isNullable],
+  isOptional: [Function: bound isOptional]
+} 1`] = `
+"[
+  {
+    \\"code\\": \\"invalid_type\\",
+    \\"expected\\": \\"number\\",
+    \\"received\\": \\"nan\\",
+    \\"path\\": [],
+    \\"message\\": \\"Expected number, received nan\\"
+  }
+]"
+`;
+
+exports[`Common zod schemas > 7 ZodEffects {
+  spa: [Function: bound safeParseAsync] AsyncFunction,
+  superRefine: [Function: bound _refinement],
+  _def: [Object],
+  parse: [Function: bound parse],
+  safeParse: [Function: bound safeParse],
+  parseAsync: [Function: bound parseAsync] AsyncFunction,
+  safeParseAsync: [Function: bound safeParseAsync] AsyncFunction,
+  refine: [Function: bound refine],
+  refinement: [Function: bound refinement],
+  optional: [Function: bound optional],
+  nullable: [Function: bound nullable],
+  nullish: [Function: bound nullish],
+  array: [Function: bound array],
+  promise: [Function: bound promise],
+  or: [Function: bound or],
+  and: [Function: bound and],
+  transform: [Function: bound transform],
+  default: [Function: bound default],
+  describe: [Function: bound describe],
+  isNullable: [Function: bound isNullable],
+  isOptional: [Function: bound isOptional]
+} 1`] = `
+"[
+  {
+    \\"validation\\": \\"email\\",
+    \\"code\\": \\"invalid_string\\",
+    \\"message\\": \\"Invalid email\\",
+    \\"path\\": []
+  }
+]"
+`;
+
+exports[`Common zod schemas > 7 ZodString {
+  spa: [Function: bound safeParseAsync] AsyncFunction,
+  superRefine: [Function: bound _refinement],
+  _def: [Object],
+  parse: [Function: bound parse],
+  safeParse: [Function: bound safeParse],
+  parseAsync: [Function: bound parseAsync] AsyncFunction,
+  safeParseAsync: [Function: bound safeParseAsync] AsyncFunction,
+  refine: [Function: bound refine],
+  refinement: [Function: bound refinement],
+  optional: [Function: bound optional],
+  nullable: [Function: bound nullable],
+  nullish: [Function: bound nullish],
+  array: [Function: bound array],
+  promise: [Function: bound promise],
+  or: [Function: bound or],
+  and: [Function: bound and],
+  transform: [Function: bound transform],
+  default: [Function: bound default],
+  describe: [Function: bound describe],
+  isNullable: [Function: bound isNullable],
+  isOptional: [Function: bound isOptional],
+  _regex: [Function (anonymous)],
+  nonempty: [Function (anonymous)],
+  trim: [Function (anonymous)]
+} 1`] = `
+"[
+  {
+    \\"validation\\": \\"email\\",
+    \\"code\\": \\"invalid_string\\",
+    \\"message\\": \\"Invalid email\\",
+    \\"path\\": []
+  }
+]"
+`;

@@ -1,0 +1,20 @@
+{
+  "title": "Course title",
+  "liveLink": "Course live link if exists.",
+  "description": "Course description/objective, can be couple of lines.",
+  "picture": "An image/thumbnail representing the course.",
+  "projectFiles": ["https://example.com/project-file.pdf"],
+  "modules": [
+    {
+      "title": "Module title",
+      "topics": [
+        {
+          "title": "Topic title",
+          "videoLink": "course video link",
+          "assignmentFiles": ["https://example.com/assignment-file.zip"],
+          "topicNotes": ["https://example.com/assignment-file.docs"]
+        }
+      ]
+    }
+  ]
+}
